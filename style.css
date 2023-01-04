@@ -1,9 +1,24 @@
-div {
-    width: 100%;
-    max-width: 200px;
-    height: 100vw;
+section {
+    height: 80vh;
     border: 1px solid black;
-    font-size: 20px;
-    font-weight: 600;
-    font-family: "roboto", sans-serif;
+}
+
+p {
+    color: green;
+}
+
+.red {
+    color: red; 
+}
+
+#title  {
+    color:  black;
+}
+
+p.red {
+    color: purple;
+}
+
+.heading.red {
+    color: blue;
 }
